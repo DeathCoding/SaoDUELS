@@ -1,0 +1,9 @@
+name: SaoDUELS
+version: 0.2
+author: PixelFrax
+
+main: com.frax.SaoDUELS.SaoDUELS
+commands:
+  duel:
+    description: duel
+    usage: </command>
